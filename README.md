@@ -138,7 +138,7 @@
 ##### Схематическое изображение чертежа листа, отрезков и фигуры для данного примера:
 Размер листа: ширина = 6000 мм, высота = 3210 мм.
 
-  ![Image alt]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/vitmvit/input_task_android_3/blob/main/Screenshot%202024-01-24%20at%2017.34.42.png))
+<img src="https://github.com/vitmvit/input_task_android_3/blob/main/Screenshot%202024-01-24%20at%2017.34.42.png" alt="альтернативный текст">
 
 ```text
 0, 15, 6000, 15
